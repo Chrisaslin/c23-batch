@@ -1,1 +1,2 @@
-# c23-batch
+# C20_boilerplate
+boilerplate for teacher activity
